@@ -1,0 +1,2 @@
+# Los .caja son binarios: que Git no toque los saltos de linea
+*.caja binary
