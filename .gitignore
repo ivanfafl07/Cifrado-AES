@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+Properties/launchSettings.json
+ejemplo/*_recuperado.txt
+ejemplo/prueba.caja
